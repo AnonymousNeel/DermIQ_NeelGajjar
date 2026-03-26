@@ -4,6 +4,7 @@
 // DermIQ — Skincare Knowledge Base
 // The structured intelligence layer. Every recommendation
 // traces back to data defined here.
+/* Neel Gajjar R. */
 // ============================================================
 
 const SKIN_TYPES = [
